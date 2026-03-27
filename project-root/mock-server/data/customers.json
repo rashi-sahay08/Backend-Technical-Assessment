@@ -1,0 +1,24 @@
+[
+  {
+    "customer_id": 1,
+    "first_name": "Rashi",
+    "last_name": "Sahay",
+    "email": "rashi1@example.com",
+    "phone": "9876543210",
+    "address": "Delhi, India",
+    "date_of_birth": "1998-05-12",
+    "account_balance": 12000.50,
+    "created_at": "2024-01-01T10:00:00"
+  },
+  {
+    "customer_id": 2,
+    "first_name": "Aman",
+    "last_name": "Verma",
+    "email": "aman@example.com",
+    "phone": "9876543211",
+    "address": "Noida, India",
+    "date_of_birth": "1995-08-21",
+    "account_balance": 8500.00,
+    "created_at": "2024-01-02T11:00:00"
+  }
+]
